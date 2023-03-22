@@ -4,6 +4,8 @@
 
 Use `node player.js` in CLI to start the client.
 
+[Server](https://github.com/j-davitt/trivia-backend-server)
+
  Authors: Joe Davitt, Brandon Perard, Arienne Frey, Jonathan Staib
  
  ## Overview
