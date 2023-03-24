@@ -19,7 +19,7 @@ Use `npm install` to install required node_modules.
 
 Use `node player.js` in CLI to start the client.
 
-> The server side is deployed with render, it is a free service and sometimes takes time to start the server when logging in.
+> **The server side is deployed with render, it is a free service and sometimes takes time to start the server when logging in.**
 
 ![Demo](./assets/TriviaDemo1.gif)
 
