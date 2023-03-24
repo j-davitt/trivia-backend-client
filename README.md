@@ -9,7 +9,7 @@ Some of my personal contributions include:
 - Created the user model for data storage.
 - Utilized Socket.io to to enable communication between the server and client.
 - Created interactivity through the CLI with Inquirer.
-- Utilized base64 decoding the properly display the data from OpenTriviaDB.
+- Utilized base64 decoding to properly display the data from OpenTriviaDB.
 - Created room tracking functionality to support user roles.
 - Participated in daily pair programming sessions.
 
