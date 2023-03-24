@@ -27,6 +27,8 @@ To sign up, you must provide a unique username and then select one of the random
 
 ![Demo](./assets/TriviaDemo2.gif)
 
+The first player to join a given room is the only player that has access to start or customize the game. All room join events are broadcast to all players in that room.
+
 ## Overview
 
  Authors: Joe Davitt, Brandon Perard, Arienne Frey, Jonathan Staib
