@@ -1,8 +1,8 @@
 # Terminal Trivia Trials - client
 
-This is a [group project](https://github.com/team-socket/Terminal-Trivia-Trials) I participated in at Code Fellows.
+This is a [group project](https://github.com/team-socket/Terminal-Trivia-Trials) I participated in at Code Fellows. It is a Command Line Only project.
 
-[Server link](https://github.com/j-davitt/trivia-backend-server)
+[Server Repo link](https://github.com/j-davitt/trivia-backend-server)
 
 Some of my personal contributions include:
 
@@ -18,6 +18,8 @@ Some of my personal contributions include:
 Use `npm install` to install required node_modules.
 
 Use `node player.js` in CLI to start the client.
+
+## DEMO
 
 > **The server side is deployed with render, it is a free service and sometimes takes time to start the server when logging in.**
 
